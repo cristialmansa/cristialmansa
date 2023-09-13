@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Cristina
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning about Back End development.
-- 📫 You can reach me on hola@cristinalmansa.es 
+- 👀 I’m interested in software development.
+- 🌱 I’m currently studying Software Engineering.
+- 📫 You can reach me on almansacris@gmail.com 
